@@ -1,4 +1,5 @@
 Calculadora de Promedio de Notas
+
 Programa desarrollado en Python utilizando programación imperativa. El programa permite ingresar varias notas, calcular el promedio del estudiante y determinar si aprobó o reprobó según una nota mínima de 3.0.
 
 Objetivo
